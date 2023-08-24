@@ -1,4 +1,4 @@
-var name = "your name";
+var name = "Emily";
 alert(`Hi, ${name}. Want to see something cool?`);
 document.querySelector('html').innerHTML = `
   <h1>Welcome to ${name}'s site!</h1>
