@@ -8,3 +8,10 @@ const combine = `<p>There once was a ${adjective} cat that used poop to ${verb} 
 
 // display the story as a <p> inside the <main> element.
 document.querySelector("main").innerHTML = combine;
+
+// const flavor = "Blue";
+// const type = "Smoothie";
+// const price = "4.99";
+
+// const drink = `${flavor} ${type}: $${price}.`;
+// console.log(drink);
